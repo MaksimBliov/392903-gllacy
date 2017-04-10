@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Максим Блинов](https://up.htmlacademy.ru/htmlcss/17/user/392903).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Балабанович] (https://htmlacademy.ru/profile/vladbesson).
 
 ---
 
